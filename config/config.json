@@ -1,0 +1,6 @@
+{
+    "Verbose": 1,
+    "Env": "dev",
+    "ServerAddress": "0.0.0.0:8080",
+    "FirebaseJson":"config/firebase.json"
+}
